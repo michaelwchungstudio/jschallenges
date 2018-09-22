@@ -1,0 +1,13 @@
+.wrapper {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#dynamictext {
+  font-family: Helvetica;
+  font-size: 300px;
+  color: black;
+}
