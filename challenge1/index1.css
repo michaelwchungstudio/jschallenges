@@ -22,6 +22,12 @@
   color: black;
 }
 
+#showtext {
+  font-family: Helvetica;
+  font-size: 14px;
+  color: black;
+}
+
 .textbox {
   float: left;
   padding: 0 25px;
