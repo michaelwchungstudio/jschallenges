@@ -1,0 +1,21 @@
+.wrapper {
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#specialhoverbox {
+  height: 600px;
+  width: 800px;
+  background-color: pink;
+  border: 2px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#boxtext {
+  font-family: Helvetica;
+  font-size: 20px;
+}
