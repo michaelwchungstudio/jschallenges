@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputbox {
+  width: 250px;
+  height: 25px;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.infotext {
+  float: left;
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+#switchtext {
+  font-family: Helvetica;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
