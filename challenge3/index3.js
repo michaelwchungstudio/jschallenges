@@ -7,4 +7,6 @@ document.addEventListener('keypress', function() {
 
   // Changes the text within the text box to the variable.
   dynamictext.innerText = key;
+  // dynamictext.innerText += key;
+  // Above statement would append keypress each time (simulates typing!)
 })
